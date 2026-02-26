@@ -327,7 +327,7 @@ margin-top: 30px;
     
 /* media queries searach bar and button */
 
-@media screen and (max-width:740px) {
+/* @media screen and (max-width:740px) {
 
     
 input[type="text"]{
@@ -400,7 +400,7 @@ input[type="text"]{
 
 
     }
-}
+} */
 /* Default desktop styles are already set above */
 
 /* Tablet screens (up to 1024px) */
